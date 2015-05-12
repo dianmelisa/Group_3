@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Daftar Anggota
 =======
 Dian Melisa
@@ -7,3 +8,6 @@ Dian Melisa
 =======
 Lina Marlina
 >>>>>>> nama : Lina
+=======
+mukti dirtama
+>>>>>>> nama:mukti
