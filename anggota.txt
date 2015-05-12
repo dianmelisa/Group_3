@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Daftar Anggota
 =======
 Dian Melisa
 >>>>>>> nama : Dian
+=======
+Lina Marlina
+>>>>>>> nama : Lina
